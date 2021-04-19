@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gvos-webapp/static/css/main.a534a4f7.chunk.css",
+    "main.js": "/gvos-webapp/static/js/main.5536e936.chunk.js",
+    "main.js.map": "/gvos-webapp/static/js/main.5536e936.chunk.js.map",
+    "runtime-main.js": "/gvos-webapp/static/js/runtime-main.2bed85fa.js",
+    "runtime-main.js.map": "/gvos-webapp/static/js/runtime-main.2bed85fa.js.map",
+    "static/js/2.bf0054ca.chunk.js": "/gvos-webapp/static/js/2.bf0054ca.chunk.js",
+    "static/js/2.bf0054ca.chunk.js.map": "/gvos-webapp/static/js/2.bf0054ca.chunk.js.map",
+    "static/js/3.ced2b779.chunk.js": "/gvos-webapp/static/js/3.ced2b779.chunk.js",
+    "static/js/3.ced2b779.chunk.js.map": "/gvos-webapp/static/js/3.ced2b779.chunk.js.map",
+    "index.html": "/gvos-webapp/index.html",
+    "static/css/main.a534a4f7.chunk.css.map": "/gvos-webapp/static/css/main.a534a4f7.chunk.css.map",
+    "static/js/2.bf0054ca.chunk.js.LICENSE.txt": "/gvos-webapp/static/js/2.bf0054ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bed85fa.js",
+    "static/js/2.bf0054ca.chunk.js",
+    "static/css/main.a534a4f7.chunk.css",
+    "static/js/main.5536e936.chunk.js"
+  ]
+}
